@@ -1,6 +1,6 @@
 # prizmdoc-k8s 
 
-This repo deploys Accusoft Prizmdoc Viewer (PAS) and Prizmdoc Server (PCCIS) in Kuberenetes. 
+This repo deploys Accusoft Prizmdoc Viewer (PAS) and Prizmdoc Server (PCCIS) in Kubernetes. 
 
 Jenkins Pipeline - In order to deploy, execute the pipeline and choose the ENVIRONMENT of choice, the pipeline will do the rest.
 
