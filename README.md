@@ -13,9 +13,3 @@ PAS:
     * DEVOPS    - http://devops-hostname:31103/info
     * TEST      - http://test-hostname:31103/info
 
-
-```
-Example:
-
-kubectl logs -n prizmdoc mysql-0 -f
-
